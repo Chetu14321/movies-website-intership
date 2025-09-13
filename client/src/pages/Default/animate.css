@@ -1,0 +1,18 @@
+/* Global styles for light and dark themes */
+.bg-dark {
+  background-color: #333 !important;
+}
+
+.text-light {
+  color: #fff;
+}
+
+.bg-light {
+  background-color: #f8f9fa !important;
+}
+
+.text-dark {
+  color: #000;
+}
+
+/* You can extend this as needed */
